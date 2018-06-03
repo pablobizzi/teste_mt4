@@ -1,6 +1,8 @@
 <?php
   require_once 'model/database.php';
 
+  ini_set('display_errors', 0);
+
   $controller = 'dispositivo';
 
   $tipos = array('Servidor','Roteador','Switch');

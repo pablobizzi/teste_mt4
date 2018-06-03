@@ -37,6 +37,15 @@
                     <li>
                         <a href="?c=ssh"> Tarefa 2 </a>
                     </li>
+                    <li>
+                        <a href="?c=criptografia"> Tarefa 3 </a>
+                    </li>
+                    <li>
+                        <a href="?c=hashes"> Tarefa 4 </a>
+                    </li>
+                    <li>
+                        <a href="?c=documento"> Tarefa 5 </a>
+                    </li>
                 </ul>
             </div>
         </div>
